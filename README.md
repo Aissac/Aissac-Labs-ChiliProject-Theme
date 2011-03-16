@@ -4,7 +4,7 @@
 
 I really like [GitCamp](https://github.com/kennethreitz/redmine-gitcamp-theme) as a ChiliProject (and Redmine) theme but wanted just a bit of customization for Aissac Labs.
 
-![Aissac Labs Screenshot](http://github.com/aissac/Aissac-Labs-ChiliProject-Theme/raw/master/screenshot.png)
+![Aissac Labs Screenshot](https://github.com/Aissac/Aissac-Labs-ChiliProject-Theme/raw/master/screenshot.png)
 
 ## Installation
 
